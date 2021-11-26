@@ -1,0 +1,927 @@
+Head
+
+
+Hair of the head
+
+	
+Back of the head
+
+	
+Face
+
+
+Forehead
+frontal emninence
+frontal bump
+superciliary arch
+bulge of the forehead
+
+
+Cheek
+
+
+Mouth
+
+
+Chin
+
+	
+Eye
+
+	
+Nose
+
+	
+Eyebrow
+	
+Upper lid
+
+	
+Lower lid
+	
+Eye lash
+
+	
+Iris
+
+
+Pupil
+
+
+extraocular muscle
+
+
+Eye ball
+	
+crystalline
+lens
+
+
+Vitreous body
+
+	
+Cornea
+	
+Retina
+
+
+Sclera
+
+
+Optic nerve
+
+	
+Blind spot
+
+
+nasolabial fold
+
+	
+Philtrum
+
+
+Neck
+
+	
+nucha
+
+	
+Throat
+
+	
+Jaw
+
+	
+maxilla
+
+
+Brain
+
+	
+Cerebrum
+
+	
+Cerebellum
+
+	
+Ear
+
+	
+External ear
+
+	
+Auricle
+
+	
+Lobe of the ear
+lobule
+
+	
+External auditory meatus 
+cannal
+
+	
+Middle ear
+
+	
+Tympanic membrane
+
+	
+tympanic cavity
+tympanum
+
+	
+Ossicles
+
+	
+malleus
+
+	
+incus
+
+	
+Stirrup
+stapes
+
+	
+Eustachian tube
+auditory tube
+
+	
+Inner ear
+
+
+semicircular canal
+
+
+Cochlea
+
+	
+Vestibule
+
+	
+Auditory nerve
+
+	
+Nose
+
+	
+Bridge of nose
+
+	
+Nostril
+
+	
+Nasal septum
+
+	
+Nasal cavity
+
+	
+Nasal bone
+
+
+Paranasal sinus
+
+	
+Nasal concha
+turbinate
+
+	
+Choana
+
+	
+nasal winqs
+
+	
+Nasal meatus
+
+	
+Vibrissa
+
+	
+oral cavity and oropharyhx
+
+	
+Upper lip
+
+	
+Lower lip
+
+	
+Gum 
+gingiva
+
+	
+Tooth
+
+	
+Hard palate
+
+	
+Soft palate
+velum
+
+	
+mouth angle
+
+	
+uvula
+
+	
+palatine 
+tonsil
+	
+Pharynx
+
+
+Tongue
+
+	
+Throat
+ larynx
+
+	
+Epiglottis
+
+	
+Vocal cords
+
+	
+Glottis
+
+	
+Tooth
+
+	
+Inciso
+front tooth
+	
+Canine tooth
+eyetooth
+
+	
+Premolar tooth
+
+
+Molars
+back tooth 
+double tooth
+
+	
+Milk tooth
+temporary tooth
+
+	
+Wisdom tooth
+
+	
+Permanent tooth
+
+
+Tricuspid tooth
+
+	
+Socket of the tooth
+
+	
+Perisdom tium
+
+	
+Cement 
+crusta petrosa
+tooth bone
+
+	
+Crown
+
+	
+Root
+ fang
+
+	
+Enamel
+encaustum
+
+	
+Dentine
+
+	
+Pulp
+dentalpulp
+
+
+Blood vessels and nerves
+
+	
+human body
+
+
+shoulder
+
+	
+Shoulder blade scapula
+
+
+Loins
+waist
+	
+Armpit
+	
+Armpit hair
+	
+Chest, thorax
+
+	
+Breast
+
+
+Nipple
+teat
+mammilla
+	
+Areola
+
+
+Flank
+
+	
+haunch
+
+
+Navel, umbilicus
+belly button
+
+	
+Belly
+abdomen
+
+	
+Upper abdomen
+
+	
+Lower abdomen
+
+	
+Groin
+
+	
+Buttocks 
+Bottom
+ backside
+ posterior
+
+	
+upper arm
+
+	
+Forearm
+
+
+Elbow
+
+
+Wrist
+	
+Fist
+
+	
+Thigh
+
+	
+Knee
+
+	
+popliteal space
+
+
+Shank
+ leg
+
+	
+Calf
+
+
+Hand
+
+	
+thumb
+
+	
+Forefinger
+ index finger
+
+	
+Middle finger
+
+	
+Ring finger
+
+	
+Little finger
+
+	
+Back of the hand
+
+	
+Palm of the hand 
+Thenar
+palm
+
+	
+Radial side of the hand
+
+	
+Ulnar side of the hand
+
+	
+fingernail
+
+
+Fingerprint
+
+	
+thenar eminence
+
+	
+palm prints
+
+	
+carpus
+
+
+wrist joint
+
+
+Phalanx
+
+	
+Finger tip
+
+	
+knuckle
+
+	
+Foot
+
+	
+Big toe
+
+	
+Second toe
+	
+Third toe
+
+	
+Fourth toe
+
+	
+Little toe
+
+	
+Toe nail
+
+	
+Ankle
+malleolus
+
+	
+External malleolus
+lateral malleolus
+
+	
+inner malleolus
+medial malleolus
+
+	
+Instep
+
+	
+Sole
+
+	
+Heel
+
+	
+Heart
+
+	
+Atrium
+
+Tricuspid valve
+
+	
+Mitral valve
+
+	
+Cuspid
+
+	
+Aortic valve
+
+
+Semilunar valve
+
+	
+Pulmonary valve
+
+	
+Ventricle
+
+	
+Ventricular septum
+septum muscular
+ventriculorum cordis
+
+	
+Superior vena cava
+
+	
+Aorta
+
+	
+Pulmonary artery
+
+	
+Pulomonary vein
+
+	
+Coronary artery
+
+	
+Inferior vena cava
+
+	
+Auricle, auricula cordis
+
+
+Auricular dextra
+
+	
+Auricular sinistra
+
+	
+Pericardium
+
+	
+Myocardium
+
+	
+Apex of the heart
+
+
+Lung
+
+
+Throat larynx
+
+	
+Wind pipe
+trachea
+
+	
+Apex of the lung
+
+	
+Left brochi
+
+	
+Right brochi
+
+	
+Lobe of the lung
+
+
+Upper lobe
+
+	
+Middle lobe
+
+
+Lower lobe
+
+	
+Base of he lung
+
+	
+Hilus of the lung
+	
+Lung alveolus
+
+	
+Lung alveolar pores
+
+	
+Pleura
+
+	
+Mediastinum
+
+	
+Digestive system
+
+	
+Gullet
+
+	
+Orifice of the stomach
+
+	
+pylorus
+
+
+Stomach
+
+
+Lesser curvature
+
+	
+Greater curvature
+
+	
+Fundus of stomach
+
+	
+Duodenum
+
+
+Pancreas
+
+
+Liver
+
+	
+Laeral ligament of the liver
+
+	
+right lobe of the liver
+left lobe of the liver
+
+	
+Hepatic duct
+
+	
+Gall bladder
+
+	
+Common bile duct
+
+	
+Cystic dust
+
+	
+Portal vein
+
+	
+Jejunum
+
+	
+Ileum
+
+	
+Larger intestine
+
+	
+Caecum
+
+	
+vermiform appendix
+
+	
+Ascending colon
+
+	
+Transverse colon
+
+
+Descending colon
+
+	
+Rectum
+
+	
+Anus
+
+	
+Sphincter
+
+	
+Urogenital system
+
+	
+Kidney
+
+	
+Renal pelvis
+
+	
+Calyx
+
+	
+Adrenal gland
+
+	
+Glomerule
+
+	
+Ureter
+
+	
+Bladder
+
+	
+Urethra
+
+	
+Seminal vesicle
+
+	
+Prostate
+prostate gland
+
+	
+Spermatic duct
+
+	
+Testis, testicle
+
+	
+Epididymis
+
+	
+Scrotum
+
+	
+Penis
+
+	
+prepuce
+
+	
+Glans penis
+
+	
+Corpus cavernosum and spongiosum
+
+	
+Uterus
+womb
+matrix
+
+	
+Uterine cavity
+
+	
+Fallopian tube
+
+	
+Ovary
+
+	
+Fimbria
+
+	
+Cervix
+
+	
+Os uteri
+
+	
+Cervical canal
+
+	
+Vagina
+
+	
+Vulva
+	
+Labia of he vulva
+
+	
+clitoris
+
+	
+Circulatory system
+	
+Cervical nerve
+
+	
+Brachial nerve
+
+	
+Intercostal nerve
+
+	
+Thoracic nerve
+
+	
+Spinal nerve
+	
+Axillary nerve
+
+	
+Radial nerve
+
+	
+Ulnar nerve
+cubital tunnel
+
+	
+Sacral nerve
+	
+Sciatic nerve
+
+	
+Femoral nerve
+
+	
+Trochlear nerve
+
+	
+Tibial nerve
+	
+Sural nerve
+
+	
+Peroneal nerve
+
+	
+Splanchnic nerve
+
+	
+Trophic nerve
+
+	
+Nerve trunk
+
+	
+Nerve cell
+
+Nerve root
+
+	
+lymph
+
+	
+Lymph node
+
+
+Lymphatic gland
+
+	
+Lymph-vessel
+lymphatic vessel
+
+	
+Lymphoid tissue
+
+lymphocyte
+
+	
+gland
+
+	
+Endocrine gland
+
+	
+Lacriminal gland
+
+	
+mamillary gland
+
+	
+Parotid gland
+
+	
+Salivary gland
+
+
+Sebaceous gland
+
+	
+Sweat gland
+
+	
+Blood vessel
+
+capillary
+blood
+
+	
+plasma
+
+	
+White blood cell
+leukocyte
+
+	
+Red blood cell
+erythrocyte
+
+	
+Platelets
+thrombocyte
+
+	
+haemoglobin
+

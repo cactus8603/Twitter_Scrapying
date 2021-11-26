@@ -1,0 +1,17 @@
+BioNTech
+Pfizer
+BNT
+
+Oxford
+AstraZeneca
+AZ
+
+Moderna
+
+Johnson&Johnson
+Janssen
+
+Novavax
+
+Medigen
+MVC COVID-19 Vaccine
