@@ -110,11 +110,11 @@ def wordCloud(path, date):
     cloud.to_file(photopath)
 
 if __name__ == '__main__':
-    consumer_key = 'PYVDbrq9iLuKrhOHFIghJ8X2v'
-    consumer_secret='kyKF11dnLv1HB95pV7ZWtNE6U0qy7y7ZJKoiXe2zzA5PF5jizn'
-    access_token='1459457686035398659-Qkl28oU2w2VKbtI3oHiKQ4LMeN8nIX'
-    access_token_secret='Y123MJ3alqC9wdh9p6YWL32fePk1SItHxGTxuqoZ7R1Wu'
-    bearer_token = 'AAAAAAAAAAAAAAAAAAAAAONoVwEAAAAA95%2BZhcLwZW5VM48mzQ7da2LA%2Bso%3DyX60MdcTK9Lfj4acwkJEfnUsDB4XhrzWuqiPvsicAEk4IFyBWD'
+    consumer_key = ''
+    consumer_secret=''
+    access_token=''
+    access_token_secret=''
+    bearer_token = ''
 
     client = tweepy.Client(bearer_token)
 
